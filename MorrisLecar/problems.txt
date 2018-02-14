@@ -1,0 +1,67 @@
+Problems:
+  In absence of slow-wave, Sigma, Freq are miscalculated
+  No spikers?
+
+############## Examplars: ####################
+
+Both silent
+	/mnt/dwidget/758_71/758_71_GM2_0031.abf
+        /mnt/dwidget/758_75/758_75_GM1_0044.abf
+Both wavy, no spikes (model burst, neuron inhibited)
+	/mnt/dwidget/758_69/758_69_GM1_0010.abf
+	/mnt/dwidget/758_71/758_71_GM2_0015.abf
+	/mnt/dwidget/758_71/758_71_GM2_0009.abf
+	/mnt/dwidget/758_73/758_73_GM1_0015.abf
+Both wavy, spikes (alternating bursting)
+	/mnt/dwidget/758_69/758_69_GM1_0009.abf
+	/mnt/dwidget/758_71/758_71_GM2_0007.abf
+        /mnt/dwidget/758_73/758_73_GM1_0050.abf
+GM spikes, no waves (neuron spiking, model inhibited)
+	/mnt/dwidget/758_69/758_69_GM1_0012.abf
+	/mnt/dwidget/758_69/758_69_GM1_0011.abf
+        /mnt/dwidget/758_73/758_73_GM1_0009.abf
+
+################################################
+
+
+Analyzing /mnt/dwidget/758_61/758_61_GM1_0023.abf (22 of 78)
+DCC freq = 1.90746 kHz
+Real SpikeFreq = 0.0374283Hz, Real BurstFreq = 0Hz
+SlowFreq = 0.0506266Hz, NumSigma = 18.8831
+System is Bursting
+
+Analyzing /mnt/dwidget/758_61/758_61_GM1_0034.abf (33 of 78)
+DCC freq = 1.90804 kHz
+Real SpikeFreq = 0.106998Hz, Real BurstFreq = 0Hz
+SlowFreq = 0.273947Hz, NumSigma = 14.6626
+System is Bursting
+
+Analyzing /mnt/dwidget/758_61/758_61_GM1_0036.abf (35 of 78)
+DCC freq = 1.90804 kHz
+Real SpikeFreq = 0.0815634Hz, Real BurstFreq = 0Hz
+SlowFreq = 0.155454Hz, NumSigma = 64.9242
+System is Bursting
+
+Analyzing /mnt/dwidget/758_61/758_61_GM1_0047.abf (46 of 78)
+DCC freq = 1.90836 kHz
+Real SpikeFreq = 0.0427912Hz, Real BurstFreq = 0Hz
+SlowFreq = 0.232528Hz, NumSigma = 17.5023
+System is Bursting
+
+Analyzing /mnt/dwidget/758_61/758_61_GM3_0026.abf (63 of 78)
+DCC freq = 1.91044 kHz
+Real SpikeFreq = 0.535187Hz, Real BurstFreq = 0Hz
+SlowFreq = 1.25029Hz, NumSigma = 7.73998
+System is Bursting
+
+Analyzing /mnt/dwidget/758_61/758_61_GM3_0017.abf (57 of 78)
+DCC freq = 1.91048 kHz
+Real SpikeFreq = 0Hz, Real BurstFreq = 0Hz
+SlowFreq = 61.6285Hz, NumSigma = 4.02501
+System is Silent
+
+Analyzing /mnt/dwidget/758_61/758_61_GM3_0038.abf (71 of 78)
+DCC freq = 1.91072 kHz
+Real SpikeFreq = 0Hz, Real BurstFreq = 0Hz
+SlowFreq = 61.6363Hz, NumSigma = 5.3489
+System is Silent
